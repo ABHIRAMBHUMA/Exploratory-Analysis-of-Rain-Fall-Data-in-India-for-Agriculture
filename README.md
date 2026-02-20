@@ -30,7 +30,7 @@ The project follows a modular structure for better organization and maintainabil
 
 ⚙️ Installation and Setup
 
-To run this project locally, clone the repository and navigate to the project directory. Install the required Python libraries using pip, including Flask, Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn. Ensure that the trained model and scaler files are present inside the models folder. Once the dependencies are installed, run the application using the command python app.py. The application will start on the local development server, and you can access it through your browser at http://127.0.0.1:5000/.
+To run this project locally, clone the repository and navigate to the project directory. Install the required Python libraries using pip, including Flask, Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn. Ensure that the trained model and scaler files are present inside the models folder. Once the dependencies are installed, run the application using the command python app.py. The application will start on the local development server, and you can access it through your browser.
 
 ▶️ How to Use
 
