@@ -47,3 +47,9 @@ This project can be further enhanced by integrating real-time weather APIs to pr
 📌 Conclusion
 
 The Rainfall Prediction and Analytics System successfully demonstrates how machine learning can be applied to real-world environmental problems. By combining predictive modeling with web development and data visualization, the project provides both functional and analytical value. The system offers an accessible platform for rainfall forecasting and highlights the importance of data-driven decision-making in agriculture and weather analysis.
+
+Documentation link :
+https://drive.google.com/drive/folders/1g17xo4YEOjnT-2Ff39GgzyAJdwNTC5Q_?usp=sharing
+
+Video URL :
+https://youtu.be/iBi1bUK9FGg?si=I4-FtK5khlAs3CNJ
